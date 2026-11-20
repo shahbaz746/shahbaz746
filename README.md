@@ -1,18 +1,49 @@
-# 💫 About Me:
-Hi, I’m Shahbaz Tofeeq 👋<br>I’m a Computer Science student and a passionate Front-End Developer dedicated to building modern, responsive, and user-focused web applications.<br><br>🌐 Front-End Development (clean, responsive, and performance-driven web interfaces)<br><br>⚛️ React.js (component-based architecture and dynamic user experiences)<br><br>🎨 Tailwind CSS (utility-first framework for scalable and maintainable UI design)<br><br>📦 Bootstrap (efficient development of responsive and structured layouts)<br><br>🚀 Continuous Learning (actively enhancing my skills and staying aligned with modern web development standards)
+# 👋 Hi, I'm Shahbaz Tofeeq
+
+### 🚀 MERN Stack Developer | Full Stack Web Developer
+
+I'm a passionate **Full Stack Developer** focused on building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products through clean code, problem-solving, and continuous learning.
+
+- 💻 Building full-stack web applications using the MERN Stack.
+- ⚛️ Developing dynamic and responsive user interfaces with React.js.
+- 🔧 Creating RESTful APIs and backend services with Node.js and Express.js.
+- 🗄️ Working with MongoDB for database management.
+- 🌐 Experienced in WordPress development using Elementor and Divi.
+- 🚀 Always exploring new technologies and improving my development skills.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahbaz-tofeeq-2a18b9303/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahbaz746)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbazrao445@gmail.com)
+
+## 💻 Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### CMS & Tools
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahbaz-tofeeq-2a18b9303/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shahbaz Rao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazrao445@gmail.com) 
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahbaz746&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahbaz746&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz746&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💡 Developer Mindset
 
----
-[![](https://visitcount.itsvg.in/api?id=shahbaz746&icon=0&color=0)](https://visitcount.itsvg.in)
+"Building, Learning, Improving — One Project at a Time."
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=shahbaz746&icon=0&color=0)
